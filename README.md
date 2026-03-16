@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-green)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
-Repositorio que contiene **ejercicios, prácticas y ejemplos desarrollados en lenguaje ensamblador**, realizados durante el curso de **Lenguajes de Interfaz** en la carrera de **Ingeniería en Sistemas Computacionales**.
+Repositorio que contiene **ejercicios, prácticas y ejemplos desarrollados en lenguaje ensamblador**, realizados durante el curso de **Lenguajes de Interfaz**.
 
 El objetivo es comprender el funcionamiento de la computadora **a bajo nivel**, trabajando directamente con **registros, memoria y operaciones del procesador**.
 
